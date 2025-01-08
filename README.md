@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheilavdb, welcome to my profile
 - 👀 I’m interested in football and other sports, love being outside in nature and am now exploring the IT world.
-- 🌱 I’m currently learning HTML CSS and the basics of Javascript
+- 🌱 I’m currently learning HTML CSS and the basics of Javascript on the Företagsuniversitet in Stockholm.
 - 📫 How to reach me: sheilavdb@gmail.com
 - ⚡ Fun fact: Have no background in IT, but I am a good and eager learner
 
